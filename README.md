@@ -26,7 +26,7 @@
 </p>
 <hr>
 
-<h3 align="center">My GitHub Stats.</h3>
+<h3 align="center">My GitHub Stats💻.</h3>
 <div align="center">
  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api?username=RajVishw&show_icons=true&theme=radical" />
 
@@ -39,7 +39,7 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:👁‍🗨</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
