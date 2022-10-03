@@ -16,7 +16,7 @@
 - ⚡ Fun fact I 💖💻Coding.
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:💻</h3>
 <p align="left">
 <a href="https://twitter.com/raj112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raj112" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raj112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj112" height="30" width="40" /></a>
@@ -53,7 +53,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <hr>
-<h3 align="center">Connect with me➰</h3>
+<h3 align="center">How to reach me:➰</h3>
  
  <a align="left" href="#">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  <a align="left" href="#">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
