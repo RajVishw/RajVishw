@@ -16,9 +16,10 @@
 - ⚡ Fun fact I 💖💻Coding.
 
 <h3 align="center">My GitHub Stats.</h3>
-<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api?username=RajVishw&show_icons=true&theme=radical" />
+ <img align="left" width="38%" src="https://github-readme-stats.vercel.app/api?username=RajVishw&show_icons=true&theme=radical" />
 
 <img align="left" width="22%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajVishw" />
+
 
 
 
