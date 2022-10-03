@@ -24,8 +24,6 @@
 <a href="https://instagram.com/sharmaraj112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharmaraj112" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/raj vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raj vishwakarma" height="30" width="40" /></a>
 </p>
-
-<br>
 <hr>
 
 <h3 align="center">My GitHub Stats.</h3>
@@ -35,15 +33,29 @@
 <img align="center" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajVishw&theme=dark&hide_border=false" />
 <br>
 <br>
-
-
 <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajVishw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 <div>
 
 
 
 
+<h3 align="left">Languages and Tools:</h3>
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+<br>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+<br>
+<br>
 <a href="https://github.com/rakesh7063/github-readme-activity-graph"><img alt="Raj Vishwakarma's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=RajVishw&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
