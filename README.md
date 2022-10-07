@@ -55,9 +55,8 @@
  
  <a align="left" href="#">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  <a align="left" href="#">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
- <a align="left" href="#">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
  <a align="left" href="#">![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</a>
- <a align="left" href="#">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+
 <br>
 <br>
 <a href="https://github.com/rakesh7063/github-readme-activity-graph"><img alt="Raj Vishwakarma's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=RajVishw&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
