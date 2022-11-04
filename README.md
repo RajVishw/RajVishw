@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT JAVA SQL.**
 
-⚡ All of my projects are available at https://rajvishw.github.io/.
+⚡ All of my projects are available at https://rajvishw.github.io/#portfolio.
 
 - 📫 How to reach me **officialraj480@gmail.com.**
 
