@@ -48,7 +48,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <hr>
 <h3 align="center">How to reach me:➰</h3>
- 
+ <a href="([https://akash1yadavv.github.io/])" rel="nofollow">
+        <img align="center" src="https://camo.githubusercontent.com/56e6045a9403c591ff7c6a997edcd1566597519fa8b8e1129b4919bf10b5c2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3138413330333f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465" alt="https://akash1yadavv.github.io/" data-canonical-src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&amp;logo=ionic&amp;logoColor=white" style="max-width: 100%;">
+    </a>
  <a align="left" href="https://www.linkedin.com/in/raj-vishwakarma-8ab833236/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  <a align="left" href="officialraj480@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
