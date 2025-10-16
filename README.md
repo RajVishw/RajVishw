@@ -1,67 +1,59 @@
-<h1 align="center">Hi 😎, I'm Raj Vishwakarma</h1>
-<h3 align="center">A passionate Java Backend Devloper from 🌏India.</h3>
+<h1 align="center">Hi 😎, I'm Raj Vishwakarma (राज विष्वकर्मा)</h1>
+<h3 align="center">🚀 Django Backend Developer | Python Enthusiast | AI-Driven Mindset</h3>
 
-<h3 align="left">Hi "✋"there !</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Django+Developer;Python+Automation+Lover;AI+%26+Backend+Engineer;Always+Learning+New+Things+🔥" />
+</p>
+
+<h3 align="left">Namaste 🙏 (नमस्ते), Welcome to my Code Universe 🌌</h3>
 <img align="right" width="38%" src="https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b134e73ef667b926c76d8ce3f962dba2.gif" />
-<h4 align="left">This is the place where i opensource stuffs and break things"👍"</h4>
+<h4 align="left">This is the place where I open-source stuff and build cool things ⚡</h4>
 
-- 🔭 I’m currently working on somthing cool**
+- 🔭 I’m currently working on **AI-powered Django Projects**  
+- 🌱 Learning **Django REST Framework | MySQL | Cloud Deployment**  
+- 💬 Ask me about **Python | Django | REST API | HTML | CSS | JavaScript**  
+- ⚡ All of my projects: [Portfolio](https://rajvishw.github.io/#portfolio)  
+- 📫 How to reach me: **officialraj480@gmail.com**  
+- 🎉 Fun fact: I treat bugs like puzzles, not problems 😎  
 
-- 🌱 I’m currently learning **Spring Boot,Mysql.**
-
-- 💬 Ask me about **HTML CSS JAVASCRIPT JAVA SQL.**
-
-⚡ All of my projects are available at https://rajvishw.github.io/#portfolio.
-
-- 📫 How to reach me **officialraj480@gmail.com.**
-
-- ⚡ Fun fact I 💖💻Coding.
-
-
-
-
-<h3 align="center">My GitHub Stats💻.</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
- <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api?username=RajVishw&show_icons=true&theme=radical" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=RajVishw&show_icons=true&theme=radical" />
+  <img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajVishw&theme=dark&hide_border=false" />
+  <br><br>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajVishw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
-<img align="center" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajVishw&theme=dark&hide_border=false" />
-<br>
-<br>
-<img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajVishw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-<div>
+<h3 align="center">🏆 GitHub Trophy Cabinet</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RajVishw&theme=discord&no-frame=true&margin-w=15" />
+</p>
 
+<h3 align="center">🐍 Watch My Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RajVishw/RajVishw/output/github-contribution-grid-snake.svg" />
+</p>
 
+<h3 align="center">🧠 Tech Arsenal (तंत्रज्ञान अस्त्र)</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20by-Python%20%26%20Logic-lightgrey?style=for-the-badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Django-Backend-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-Architect-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-Automation-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux%20Terminal-Warrior-grey?style=for-the-badge" />
+</p>
 
+<h3 align="center">📬 Connect With Me (सम्पर्कः)</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-vishwakarma-8ab833236/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:officialraj480@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<h3 align="center">Languages and Tools:👁‍🗨</h3>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-<br>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-<hr>
-<h3 align="center">How to reach me:➰</h3>
- 
-
- <a align="left" href="https://www.linkedin.com/in/raj-vishwakarma-8ab833236/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
- <a align="left" href="officialraj480@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-
-<br>
-<br>
-
-
-
-
-
-
-
-
-
+<h3 align="center">🔥 अंतिम वाक्य (Final Line)</h3>
+<p align="center"><i>\"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\" — Keep building, keep learning.</i></p>
