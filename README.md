@@ -1,11 +1,11 @@
-<h1 align="center">Hi 😎, I'm Raj Vishwakarma (राज विष्वकर्मा)</h1>
-<h3 align="center">🚀 Django Backend Developer | Python Enthusiast | AI-Driven Mindset</h3>
+<h1 align="center">Hi 😎, I'm Raj Vishwakarma</h1>
+<h3 align="center">🐍 Python Backend Developer | 👁️ Computer Vision & Deep Learning Engineer (CNN) | 🚀 Django Architect</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Django+Developer;Python+Automation+Lover;AI+%26+Backend+Engineer;Always+Learning+New+Things+🔥" />
 </p>
 
-<h3 align="left">Namaste 🙏 (नमस्ते), Welcome to my Code Universe 🌌</h3>
+<h3 align="left">Welcome to my Code Universe 🌌</h3>
 <img align="right" width="38%" src="https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b134e73ef667b926c76d8ce3f962dba2.gif" />
 <h4 align="left">This is the place where I open-source stuff and build cool things ⚡</h4>
 
@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/RajVishw/RajVishw/output/github-contribution-grid-snake.svg" />
 </p>
 
-<h3 align="center">🧠 Tech Arsenal (तंत्रज्ञान अस्त्र)</h3>
+<h3 align="center">🧠 Tech Arsenal</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Powered%20by-Python%20%26%20Logic-lightgrey?style=for-the-badge" />
   <br><br>
